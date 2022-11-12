@@ -15,4 +15,4 @@
 
 **Experience Programming**
 - Driftverse Games Network (since 2015)
-- [Gorrillaware](https://gorillaware.io) (since 2022)
+- [Gorillaware](https://gorillaware.io) (since 2022)
