@@ -3,12 +3,12 @@
 [Click here to view my public repository here on GitHub](https://github.com/tylerfrydenlund/tylerfrydenlund)
 
 **Programming since 2015**
-- Kotlin (started 2020)
-- Java (started 2015)
-- Python (started 2015)
-- C# (started 2018)
+- Kotlin (2020)
+- Java (2015)
+- Python (2015)
+- C# (2018)
 - Type Script (2022)
 
 **Experience Programming**
-- Driftverse Games Network (since 2015)
+- Driftverse Minecraft Games Network (since 2015)
 - [Gorillaware](https://gorillaware.io) (since 2022)
