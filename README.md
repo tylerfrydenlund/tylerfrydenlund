@@ -25,7 +25,8 @@ My career is a testament to my passion for technology, my dedication to staying 
 - [Law Enforcement Guide](https://gorillaware.io/le-guide/) (since 2022)
 - Adams 12 School District IT (Internship 2014-2021)
 - Driftverse Games Network (2015-2022)
-*This is a summary of my most relevant work experience in IT but is not my entire experience working*
+  
+*(This is a summary of my most relevant work experience in IT but is not my entire experience working)*
 
 **Programming since 2015**
 - Java (2015)
