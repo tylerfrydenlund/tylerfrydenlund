@@ -29,9 +29,9 @@ My career is a testament to my passion for technology, my dedication to staying 
 *(This is a summary of my most relevant work experience in IT but is not my entire experience working)*
 
 **Programming since 2015**
-- Java (2015)
-- Python (2015)
-- C# (2018)
-- Kotlin (2020)
-- Flutter (2022)
-- Typescript (2022)
+- Java
+- Python
+- C#
+- Kotlin
+- Flutter
+- Typescript
