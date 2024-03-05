@@ -1,0 +1,32 @@
+[
+  {
+    "uuid": "1540232a-d2c0-4d5b-ae8b-955baeb59e6b",
+    "name": "Mirrac",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a590fe81-ac19-463e-9b3e-3b5607a08e52",
+    "name": "boombox5050",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "206f071b-292e-4590-962f-71f16afadb76",
+    "name": "LeoArcturus",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e5f7e077-2964-45f4-aefd-d2180368067b",
+    "name": "Hypenage",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2a191eee-ba60-4873-a9ce-72f422c1d747",
+    "name": "MrSquidWhiskers",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

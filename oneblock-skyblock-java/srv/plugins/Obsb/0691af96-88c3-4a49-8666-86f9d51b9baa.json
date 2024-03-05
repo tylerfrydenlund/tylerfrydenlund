@@ -1,0 +1,18 @@
+{
+  "id": "0691af96-88c3-4a49-8666-86f9d51b9baa",
+  "name": "Midnight Cats",
+  "color": "#ac0720",
+  "phase": 3,
+  "blocksBroken": 286,
+  "totalBlocksBroken": 0,
+  "players": [
+    "2a191eee-ba60-4873-a9ce-72f422c1d747",
+    "09b02ec6-85d7-4bd8-9edc-5698c41b830e"
+  ],
+  "oneBlock": {
+    "world": "obsb",
+    "x": -50.0,
+    "y": 64.0,
+    "z": 50.0
+  }
+}

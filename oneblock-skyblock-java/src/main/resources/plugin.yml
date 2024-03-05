@@ -1,0 +1,39 @@
+name: Obsb
+version: '${version}'
+main: io.hyleo.obsb.OneblockSkyblock
+api-version: '${minecraftVersion}'
+prefix: OBSB
+authors: [ Hypenage, LeoArcturus ]
+description: Make a team, mine some blocks, and earn rewards!
+website: https://hyleo.io/obsb
+load: POSTWORLD
+depend:
+  - WorldEdit
+commands:
+  phase:
+    description: Sets the phase for a empire given a player
+    usage: /phase <player> <phase>
+    permission: bukkit.command.op
+  blocks:
+    description: Sets the blocks broken for a empire given a player
+    usage: /blocks <player> <blocks>
+    permission: bukkit.command.op
+  bossfight:
+    description: Starts the boss fight for a empire given a player
+    usage: /bossfight <player>
+    permission: bukkit.command.op
+  gear:
+    description: Gives the player gear for testing purposes
+    usage: /phase <type>
+    permission: bukkit.command.op
+  next:
+    description: Sets the specified empire given a player to the next phase
+    usage: /next <player>
+    permission: bukkit.command.op
+  previous:
+    description: Sets the specified empire given a player to the previous phase
+    usage: /next <player>
+    permission: bukkit.command.op
+  beta:
+    description: Tells the player the com.crimsoncentral.commands for beta
+    permission: bukkit.command.op
