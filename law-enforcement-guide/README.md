@@ -1,8 +1,8 @@
 # Law Enforcement Guide
 
-An app for Law Enforcement to help them with their day to day tasks. Provides helpful guides, note taking, and acess to statutes related Law Enforcement's job.
+An app for Law Enforcement to help them with their day to day tasks. With over 7,000 downloads, it provides helpful guides, note taking, and acess to statutes related Law Enforcement's job.
 
-The app has over 7,000 downloads on the Apple App Store and Google Play Store.
+It is available on the [Apple App Store](https://apps.apple.com/us/app/law-enforcement-guide/id1376579488?platform=iphone) and on the [Google Play Store](https://play.google.com/store/apps/datasafety?id=com.fandysoft.lawenforcementguide_georgia)
 
 ## Responsibilities and Duties
 
@@ -39,4 +39,4 @@ The app has over 7,000 downloads on the Apple App Store and Google Play Store.
 
 ## Screenshots
 
-![Screenshot 1](
+![Library](https://github.com/tylerfrydenlund/tylerfrydenlund/blob/master/law-enforcement-guide/screenshots/Library.png)
