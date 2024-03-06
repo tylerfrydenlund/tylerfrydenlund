@@ -38,6 +38,5 @@ It is available on the [Apple App Store](https://apps.apple.com/us/app/law-enfor
 - SQL Lite
 
 ## Screenshots
-<img src="/screenshots/Library.png" width="128"/> <img src="/screenshots/Code Viewer.png" width="128"/>
-
-<img src="/screenshots/Field Note.png" width="128"/>
+<img src="./screenshots/Library.png" width="128"/> <img src="./screenshots/Title Viewer.png" width="128"/> <img src="./screenshots/Chapter Viewer.png" width="128"/> <img src="./screenshots/Article Viewer.png" width="128"/> <img src="./screenshots/Statutes Viewer.png" width="128"/>
+<img src="./screenshots/Code Viewer.png" width="128"/> <img src="./screenshots/Guides.png" width="128"/> <img src="./screenshots/Notes.png" width="128"/> <img src="./screenshots/Search Page.png" width="128"/> <img src="./screenshots/Privacy Preferences.png" width="128"/> <img src="./screenshots/2-3-4 Rule.png" width="128"/> <img src="./screenshots/Review Sheet.png" width="128"/> 
