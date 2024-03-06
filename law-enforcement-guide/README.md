@@ -1,4 +1,6 @@
-# Law Enforcement Guide
+<div style="text-align: center;"><img src="./assets/Law Enforcement Guide Banner.png" height="150" alt=""/></div>
+
+# <img src="./assets/Law Enforcement Guide Logo.png" width="24"/> Law Enforcement Guide
 
 An app for Law Enforcement to help them with their day to day tasks. With over 7,000 downloads, it provides helpful guides, note taking, and acess to statutes related Law Enforcement's job.
 
