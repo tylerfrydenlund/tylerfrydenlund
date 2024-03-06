@@ -38,5 +38,6 @@ It is available on the [Apple App Store](https://apps.apple.com/us/app/law-enfor
 - SQL Lite
 
 ## Screenshots
+<img src="/screenshots/Library.png" width="128"/> <img src="/screenshots/Code Viewer.png" width="128"/>
 
-![Library](https://github.com/tylerfrydenlund/tylerfrydenlund/blob/master/law-enforcement-guide/screenshots/Library.png)
+<img src="/screenshots/Field Note.png" width="128"/>
