@@ -1,26 +1,48 @@
 # Oneblock Skyblock
 
-This is a portfolio of my work on the Oneblock Skyblock project.
-While this project was written for personal use with friends, it should still serve as a good example of my work.
 This project is a custom Minecraft server plugin that allows players to play a unique version of the popular Skyblock
 game mode.
 
 The plugin is written in Java with Project [Lombok](https://projectlombok.org) and contains some Kotlin as well.
 It uses the Spigot API to interact with the Minecraft server and runs on PaperMC.
 
-If you would like to see how the game balanced, check here: [Oneblock Balancing (Google Sheets)](https://docs.google.com/spreadsheets/d/1nL6PoOnbkTRZqsOfK_wJQcEoRozZuZo9KAnirAAKVCE/edit?usp=sharing)
+The entirety of the project is not open source, but I have included some of the best parts of the project in this. The full project is over 50 files and 30,000 lines of code long. With over 400 Git commits.
+
+## Languages Used
+
+- Java
+- Kotlin
+- JSON
+- YAML
+
+## Backend Technologies
+
+- Docker
+- Kubernetes
+
+## Frameworks Used
+
+- Gradle
+- Lombok
+- Minecraft
+- Spigot API
+
 
 ## How it works
 
-
+- Written in Java with Project Lombok
+- Uses the Factory Patterns for creating new instances of objects
+- Uses Builder Patterns for creating complex objects
+- Take advantage of mathematical pseudo-randomness for replay and shareability
+- Is user event driven
 
 ## Some of my best work in the project
 
-- [Util.java (GitHub)](https://github.com/tylerfrydenlund/oneblock/blob/master/src/main/java/io/hyleo/obsb/util/Util.java)
-- [EntityUtil.java (GitHub)](https://github.com/tylerfrydenlund/oneblock/blob/master/src/main/java/io/hyleo/obsb/util/EntityUtil.java)
-- [ScoreboardUtil.java (GitHub)](https://github.com/tylerfrydenlund/oneblock/blob/master/src/main/java/io/hyleo/obsb/display/ScoreboardUtil.java)
-- [Display.java (GitHub)](https://github.com/tylerfrydenlund/oneblock/blob/master/src/main/java/io/hyleo/obsb/api/display/Display.java)
-- [AnimationBufer.java (Github)](https://github.com/tylerfrydenlund/oneblock/blob/master/src/main/java/io/hyleo/obsb/api/display/AnimationBuffer.java)
+- [Util.java (GitHub)](https://github.com/tylerfrydenlund/tylerfrydenlund/blob/master/oneblock-skyblock-java/Util.java)
+- [EntityUtil.java (GitHub)](https://github.com/tylerfrydenlund/tylerfrydenlund/blob/master/oneblock-skyblock-java/EntityUtil.java)
+- [ScoreboardUtil.java (GitHub)](https://github.com/tylerfrydenlund/tylerfrydenlund/blob/master/oneblock-skyblock-java/ScoreboardUtil.java)
+- [Display.java (GitHub)](https://github.com/tylerfrydenlund/tylerfrydenlund/blob/master/oneblock-skyblock-java/Display.java)
+- [AnimationBufer.java (Github)](https://github.com/tylerfrydenlund/tylerfrydenlund/blob/master/oneblock-skyblock-java/AnimationBuffer.java)
 
 ## Description of the game
 
